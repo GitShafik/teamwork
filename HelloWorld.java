@@ -12,5 +12,6 @@ public class HelloWorld {
         String [] list = new String[]{"Tommis, Fikret, shafik"};
         String student = "Shafik, Fikret, Tomis";
 
+
     }
 }
